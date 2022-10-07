@@ -1,7 +1,12 @@
 def count_words(string)
-  if ("")
+
+  
+  if String("Hi my name is haydn")
+    return string.split.size
+  end
+
+  if String("")
     return ""
-  elsif string("Hi my name is haydn")
-    return string.size
   end
 end
+
